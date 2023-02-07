@@ -1,0 +1,16 @@
+{
+  "name": "secrets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dehine Mulatu",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.0.0",
+    "mongoose": "^6.9.1",
+    "mongoose-encryption": "^2.1.2"
+  }
+}
