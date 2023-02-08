@@ -9,6 +9,7 @@
   "author": "Dehine Mulatu",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "mongodb": "^5.0.0",
     "mongoose": "^6.9.1",
     "mongoose-encryption": "^2.1.2"
